@@ -10,4 +10,4 @@
 
 ### To-Do
 - Put all three sensors on one output, just the code for now
-- Use py
+- Use pyserial to get timestamps for when input is received from USB and eventually collect data into csv
