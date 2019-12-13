@@ -15,3 +15,5 @@
 ### To-Do
 - Use pyserial to get timestamps for when input is received from USB and eventually collect data into csv
 - Read Lakitha's thesis proposal
+
+## 13/12/2019 - Group Meeting
