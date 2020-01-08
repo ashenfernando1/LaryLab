@@ -17,3 +17,22 @@
 - Read Lakitha's thesis proposal
 
 ## 13/12/2019 - Group Meeting
+
+## 08/01/2020
+
+### Notes
+- Central Node (Lakith's project) has 6 different components (with another Lightning/audio sensor coming from John)
+    - Ozone sensor
+    - LORA
+    - PC
+    - Power
+    - Light sensor
+    - Air sensor
+- Objective is to create 10 of these Central Nodes
+    - I began by taking down dimensions of the Ozone sensor's housing and the board on which the sensor is seated on 
+
+### To-Do
+- Draw up the dimensions on FreeCAD
+- Read up on the 3D printing documentations and produce the boards 
+- Follow up with Lakitha on setting up the circuit and completing the Ozone sensor (this step should have multiple sub-steps)
+- Move on to the other sensors on the Central Node
