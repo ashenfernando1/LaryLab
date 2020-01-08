@@ -29,7 +29,9 @@
     - Light sensor
     - Air sensor
 - Objective is to create 10 of these Central Nodes
-    - I began by taking down dimensions of the Ozone sensor's housing and the board on which the sensor is seated on 
+
+### Done
+ - Took down dimensions of the Ozone sensor's housing and the board on which the sensor is seated on 
 
 ### To-Do
 - Draw up the dimensions on FreeCAD
