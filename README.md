@@ -38,3 +38,13 @@
 - Read up on the 3D printing documentations and produce the boards 
 - Follow up with Lakitha on setting up the circuit and completing the Ozone sensor (this step should have multiple sub-steps)
 - Move on to the other sensors on the Central Node
+
+## 13/01/2020
+
+### Done 
+- Finished up the 3D model, 20% printed board available at the end of the day
+- Retrieved ozone sensor data into a csv file. Of course, complete code already written up on mints git. 
+
+### To-Do
+- Set up Ozone sensor box with Lakitha tomorrow 
+- Review serial port reading code some more
