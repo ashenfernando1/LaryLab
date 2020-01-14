@@ -48,3 +48,4 @@
 ### To-Do
 - Set up Ozone sensor box with Lakitha tomorrow 
 - Review serial port reading code some more
+- Upload the gcode file to mints3D
